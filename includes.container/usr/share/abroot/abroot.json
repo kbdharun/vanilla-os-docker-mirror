@@ -5,7 +5,7 @@
     "registry": "docker.io",
     "registryService": "registry.docker.io",
     "registryAPIVersion": "v2",
-    "name": "vanillaos/desktop",
+    "name": "kbdharun/vosdesktop",
     "tag": "main",
 
     "iPkgMngPre": "lpkg --unlock",
